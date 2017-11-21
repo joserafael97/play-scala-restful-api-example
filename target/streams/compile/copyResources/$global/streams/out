@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/conf/secure.conf,/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/target/scala-2.11/classes/secure.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/conf/messages,/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/target/scala-2.11/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/conf/application.conf,/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/target/scala-2.11/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/conf/logback.xml,/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/conf/routes,/home/rafaelfeitosa/workspace/Scala/workspace/play-scala-restful-api-example/target/scala-2.11/classes/routes)[0m
